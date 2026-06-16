@@ -9,7 +9,7 @@ import os
 BOT_TOKEN = os.environ.get("BOT_TOKEN")
 
 # ID do canal onde o bot vai enviar a mensagem
-CHANNEL_ID = 123456789
+CHANNEL_ID = 1516553534483464293
 
 # (Opcional) ID de uma mensagem já existente — deixa None para o bot criar uma nova
 MESSAGE_ID = None
